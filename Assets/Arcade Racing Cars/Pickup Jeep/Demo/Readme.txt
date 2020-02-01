@@ -1,0 +1,2 @@
+The demo makes use of cinemachine, make sure to enable it through the package manager, else the camera will not work properly.
+If you are not using the Lightweight Render Pipeline or Universal Render Pipeline, then select the Standard folder.
